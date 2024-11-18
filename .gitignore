@@ -1,0 +1,7 @@
+*.exe 
+*.msi 
+*.zip 
+build/ 
+.gradle/ 
+*.apk 
+*.aab 
